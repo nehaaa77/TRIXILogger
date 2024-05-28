@@ -14,7 +14,7 @@ TRIXILogger is a Python-based keylogger that provides a secure and efficient way
 
 ## Installation
 
-1. Clone the repository using git clone https://github.com/your-username/trixilogger.git
+1. Clone the repository using git clone https://github.com/nehaaa77/TRIXILogger
 2. Install the required dependencies using pip install -r requirements.txt
 3. Run the keylogger using python trixilogger.py
 
